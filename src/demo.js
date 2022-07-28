@@ -1,9 +1,9 @@
-import React from 'react';
-import 'antd/dist/antd.css';
-import './index.css';
-import { Input } from 'antd';
+import React from "react";
+import "antd/dist/antd.css";
+import "./index.css";
 
-
-const App = () => <Input placeholder="Basic usage" />;
+const App = () => {
+  return <div>Hi Am Here!</div>;
+};
 
 export default App;
